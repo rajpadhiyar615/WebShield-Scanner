@@ -64,3 +64,8 @@ The system performs vulnerability analysis on websites by scanning security conf
 
 # 🏗 Architecture
 
+## Project Demo
+
+Watch the WebShield Scanner demonstration:
+
+[![WebShield Scanner Demo](https://img.youtube.com/vi/kocn5-FtCmA/maxresdefault.jpg)](https://youtu.be/kocn5-FtCmA)
